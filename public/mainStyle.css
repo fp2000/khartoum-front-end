@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(212, 216, 221);
+}
+a {
+    text-decoration: none;
+    color: gray;
+}
+a:hover {
+    text-decoration: none;
+    color: gray;
+}
+
+.indexPost {
+    margin: 10px;
+    border-radius: 6px;
+    border-color: black;
+    border-width: 0.5px;
+    border-style: solid;
+    
+}
+.lightGray {
+    background-color: rgba(209, 209, 209, 0.76);
+}
+.gray {
+    background-color: rgba(163, 163, 163, 0.76);
+}
+
+.indexPostTitle {
+    background-color:rgba(236, 236, 236, 0.89) !important;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 5px;
+}
+.indexPostTitleLink{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.indexPostTitleLink:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.indexPostDetails {
+    padding-top: 0.1em;
+    padding-bottom: 0.5em;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.indexPostText {
+    padding-top: 0.6em;
+    padding-bottom: 0.2em;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 5px;
+    background-color:rgba(236, 236, 236, 0.89) !important;
+}
+.indexPostMedia{
+    text-align: center;
+    padding: 1em;
+}
+.indexPostMediaContent{
+    display: inline-block;
+}
+.indexPostRating {
+    padding-top: 0.1em;
+    padding-bottom: 0.5em;
+    padding-left: 2%;
+    padding-right: 2%;
+}
